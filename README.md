@@ -18,5 +18,6 @@ The goal of nommLog is to make a no-frills drop-in system to make logging messag
 - To adjust the spacing between messages, see the `debugSpacing` variable in the `nommLog` object.
 - You can adjust the time in which messages are shown on screen in the `log` script (line 28 & 43)
 - Messages are still logged to the GMS2 output, except for repeat messages which are only logged once to reduce clutter
+- `fntDebug` uses `Microsoft Sans Serif` which (hopefully) comes with all Windows systems
 - No credit is needed!
 - Thanks for checking this out! :yellow_heart:
