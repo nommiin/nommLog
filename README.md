@@ -7,8 +7,6 @@ It's quick and easy, simply pull this repo (or [download the YYMP](https://githu
 # How To
 The goal of nommLog is to make a no-frills drop-in system to make logging messages easy and concise, that's why there is only 1 script!
 
----
-
 ### log( message, [colour=c_white] )
 **message** {*string*} The message to log to the console<br>
 **colour** {*real*} The colour of the message to display, this defaults to white
