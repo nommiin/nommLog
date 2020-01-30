@@ -5,7 +5,7 @@ A drop-in onscreen debug log for GameMaker Studio 2, it supports displaying repe
 It's quick and easy, simply pull this repo (or [download the YYMP](https://github.com/nommiin/nommLog/releases/download/1.0.0/nommLog.yymp)) and import the `log` script and , `nommLog` object into your project. To start logging, make sure that an instance of `nommLog` exists in your world (it's persistent by default!)
 
 # How To
-The goal of nommLog is to make a no-frills drop-in system to make logging messages easy and concise. 
+The goal of nommLog is to make a no-frills drop-in system to make logging messages easy and concise, that's why there is only 1 script!
 
 ---
 
